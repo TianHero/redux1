@@ -40,7 +40,7 @@ export default store;
 
 ```
 
-### 2.1 - index.js
+### 2.2 - redux.js
 ```js
 // store中默认的state
 const defaultState = {
